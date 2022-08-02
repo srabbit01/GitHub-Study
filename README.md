@@ -1,1 +1,1 @@
-# Repository how to handle GitHub
+Repository how to handle GitHub
