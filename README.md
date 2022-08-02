@@ -1,2 +1,1 @@
-# Test
-Repository for a Test
+Repository for a Practice
