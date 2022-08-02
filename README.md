@@ -1,1 +1,1 @@
-Repository for a Practice
+Repository how to handle GitHub
